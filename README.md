@@ -1,2 +1,1 @@
-# firstAR
-class exercise
+https://veroo04.github.io/firstAR/
